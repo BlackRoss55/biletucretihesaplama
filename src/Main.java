@@ -30,7 +30,7 @@ public class Main {
             dis = total*0.9;
         }
         else if(age>=65){
-            dis = total*0.3;
+            dis = total*0.7;
         }
         else{
             dis = total;
